@@ -1,0 +1,2 @@
+client_post /test2.txt mostafa 4000
+client_get /test_image.jpg mostafa 4000
